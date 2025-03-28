@@ -14,17 +14,17 @@ This repository contains the required components for the first project in the on
 ## Screenshots of the installed prorgrams and accounts
 
 * **VS Code**
-  ![VS Code Set up](vs code.png)
+  ![VS Code Set up](vs-code.png)
 
 * **Git**
   ![Git set up](Git.png)
 
 * **Oracle Virtualbox**
-  ![Virtualbox setup](Oracle virtualbox.png)
+  ![Virtualbox setup](Oracle-virtualbox.png)
 
 * **Github Account**
-  ![Github homepage](github homepage.png)
+  ![Github homepage](github-homepage.png)
 
 * **Amazone web service Account**
-  ![AWS console](aws account setup.png)
+  ![AWS console](aws-account-setup.png)
 
